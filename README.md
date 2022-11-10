@@ -1,0 +1,5 @@
+- 👋 Hi there, I’m @devillh, also called Eino!
+- 👀 I’m interested in IT, mushrooms and languages (English, Korean, Japanese, Danish, German, Spanish...)
+- 🌱 I’m currently learning JavaScript, TypeScript, Docker and how to recognize mushrooms without being sick.
+- 💞️ I’m looking to collaborate on any creative project!
+- 📫 How to reach me => heloise@villepin-it.com
