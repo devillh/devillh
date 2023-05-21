@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @devillh, also called Eino!
-- 🏳️‍🌈 Any pronoun does the trick.
+- 🏳️‍🌈 Any pronoun will do.
 - 💻 I'm a freelance fullstack developer.
 - 👀 I’m interested in IT, mushrooms and languages (English, Korean, Japanese, Danish, German, Spanish...)
 - 🌱 I’m currently learning JavaScript, TypeScript, Docker and how to recognize mushrooms without dying.
