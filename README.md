@@ -1,7 +1,6 @@
-- 👋 Hi there, I’m @devillh, also called Eino!
+- 👋 Hi there, I’m @devillh!
 - 🏳️‍🌈 Any pronoun will do.
-- 💻 I'm a freelance fullstack developer.
-- 👀 I’m interested in IT, mushrooms and languages (English, Korean, Japanese, Danish, German, Spanish...)
+- 💻 I'm a former developper and a hobbyist now.
+- 👀 I’m interested in IT, mycology, travel and languages.
 - 🌱 I’m currently learning JavaScript, TypeScript, Docker and how to recognize mushrooms without dying.
-- 💞️ I’m looking to collaborate on any creative project!
-- 📫 How to reach me => heloise@villepin-it.com
+- 💞️ I’m looking to make some projects on my own or with friends.
